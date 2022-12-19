@@ -1,5 +1,5 @@
 import { Header } from "@components/layout/Header";
-import "./globals.css";
+import "../styles/globals.scss";
 import Head from "./head";
 
 interface RootLayoutProps {

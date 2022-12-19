@@ -1,0 +1,8 @@
+.title-1 {
+  color: rgb(32, 35, 41);
+  font-weight: 900;
+  font-size: 5.625rem;
+  @media screen and ((max-width: 55.625em)) {
+    font-size: 3.75rem;
+  }
+}

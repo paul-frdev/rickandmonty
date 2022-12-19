@@ -1,6 +1,6 @@
-import { ROUTES } from "@utils/constants/routes";
 import Link from "next/link";
 import React from "react";
+import { ROUTES } from "../../utils/constants/routes";
 import { Logo } from "../../icons/Logo";
 
 export const Header = () => {
